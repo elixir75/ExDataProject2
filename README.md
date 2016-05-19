@@ -1,5 +1,5 @@
 # QL Exploratory Data Analysis Project 2
-# 6 R scripts and associated plots
+## 6 R scripts and associated plots
 
 Each script creates creates a plot which attempts to asnwer the following 6 questions:
 
