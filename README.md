@@ -1,8 +1,8 @@
 # Exploratory Data Analysis Final Project
-## Included are 6 R scripts and associated plots which attempt to answer questions about subsets of observations. 
+## Included are 6 R scripts and associated plots which attempt to answer questions by isolating subsets of air quality monitor observations for various cities and noting changes in emissions between 1999 and 2008.
 
 Each script creates a plot which attempts to answer the respective questions below, and are named accordingly.
-To answer the questions, I tried out multiple data extraction and manipulation techniques including base, dplyr, sqldf, and data.table. For plotting used base and ggplot.
+To answer the questions, I tried out multiple data extraction and manipulation techniques including base, dplyr, sqldf, and data.table. For plotting base and ggplot were used.
 
 1) Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, 
   make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
