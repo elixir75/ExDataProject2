@@ -1,7 +1,8 @@
-﻿# Exploratory Data Analysis Project 2
-## 6 R scripts and associated plots to attempt to specific questions about data.
+# Exploratory Data Analysis Final Project
+## Included are 6 R scripts and associated plots which attempt to answer questions about subsets of observations. 
 
-Each script creates a plot which attempts to asnwer the following 6 questions:
+Each script creates a plot which attempts to answer the respective questions below, and are named accordingly.
+To answer the questions, I tried out multiple data extraction and manipulation techniques including base, dplyr, sqldf, and data.table. For plotting used base and ggplot.
 
 1) Have total emissions from PM2.5 decreased in the United States from 1999 to 2008? Using the base plotting system, 
   make a plot showing the total PM2.5 emission from all sources for each of the years 1999, 2002, 2005, and 2008.
